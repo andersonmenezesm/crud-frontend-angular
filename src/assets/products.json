@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "91039sdsclk",
+    "name": "iPhone 13 Pro Max",
+    "description": "O iPhone 13 Pro Max apresenta uma deslumbrante tela Super Retina XDR, chip A15 Bionic e sistema de câmera avançado.",
+    "price": 10999,
+    "category": "Smartphones",
+    "stock": 10
+  },
+  {
+    "_id": "2837jdhfkoq",
+    "name": "iPhone 13",
+    "description": "Experimente o poder do chip A15 Bionic e o impressionante sistema de câmera dupla com o iPhone 13.",
+    "price": 7999,
+    "category": "Smartphones",
+    "stock": 15
+  },
+  {
+    "_id": "5728dhfkq82",
+    "name": "iPhone 13 Mini",
+    "description": "Compacto, porém poderoso, o iPhone 13 Mini possui todas as características de seus equivalentes maiores em um tamanho compacto.",
+    "price": 6999,
+    "category": "Smartphones",
+    "stock": 8
+  },
+  {
+    "_id": "9482hdkwoq9",
+    "name": "iPhone 12 Pro",
+    "description": "Eleve sua fotografia e videografia com o iPhone 12 Pro, com ProRAW, scanner LiDAR e gravação Dolby Vision HDR.",
+    "price": 9999,
+    "category": "Smartphones",
+    "stock": 5
+  },
+  {
+    "_id": "1938dhfkwlr4",
+    "name": "iPhone 12",
+    "description": "Desfrute de um desempenho incrível e uma tela deslumbrante com o iPhone 12, alimentado pelo chip A14 Bionic.",
+    "price": 6999,
+    "category": "Smartphones",
+    "stock": 12
+  },
+  {
+    "_id": "2947dhfls82q",
+    "name": "iPhone SE (2020)",
+    "description": "Obtenha o poder de um iPhone com a acessibilidade do iPhone SE, apresentando o chip A13 Bionic e sistema de câmera avançado.",
+    "price": 3999,
+    "category": "Smartphones",
+    "stock": 20
+  },
+  {
+    "_id": "3847dhfkwoq1",
+    "name": "iPhone 11 Pro",
+    "description": "Experimente o sistema de câmera tripla, tela Super Retina XDR e chip A13 Bionic com o iPhone 11 Pro.",
+    "price": 9999,
+    "category": "Smartphones",
+    "stock": 7
+  },
+  {
+    "_id": "0392jdhfkwq3",
+    "name": "iPhone 11",
+    "description": "Desfrute de uma bateria de longa duração e desempenho poderoso com o iPhone 11, apresentando o chip A13 Bionic.",
+    "price": 6999,
+    "category": "Smartphones",
+    "stock": 10
+  },
+  {
+    "_id": "4938dhfkwsl5",
+    "name": "iPhone XR",
+    "description": "Experimente a tela Liquid Retina e o Face ID avançado com o iPhone XR, alimentado pelo chip A12 Bionic.",
+    "price": 4999,
+    "category": "Smartphones",
+    "stock": 6
+  },
+  {
+    "_id": "2938dhfkwq67",
+    "name": "iPhone XS",
+    "description": "Desfrute de uma tela OLED deslumbrante e sistema de câmera dupla com o iPhone XS, alimentado pelo chip A12 Bionic.",
+    "price": 8999,
+    "category": "Smartphones",
+    "stock": 3
+  }
+]

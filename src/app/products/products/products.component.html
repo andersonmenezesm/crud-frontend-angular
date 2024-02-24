@@ -1,6 +1,6 @@
 <mat-card>
   <mat-toolbar color="accent">Produtos Disponíveis</mat-toolbar>
-  <table mat-table [dataSource]="products" class="mat-elevation-z8">
+  <table mat-table [dataSource]="products$" class="mat-elevation-z8">
     <!-- Name Column -->
     <ng-container matColumnDef="name">
       <th mat-header-cell *matHeaderCellDef> Nome </th>

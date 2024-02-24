@@ -3,7 +3,7 @@
 @include mat-core();
 
 $custom-color-primary: mat-palette($mat-blue-gray, 800);
-$custom-color-secondary: mat-palette($mat-indigo, A200, A400, 700);
+$custom-color-secondary: mat-palette($mat-blue-gray, 100);
 $custom-color-warning: mat-palette($mat-red);
 
 $custom-theme: mat-light-theme(

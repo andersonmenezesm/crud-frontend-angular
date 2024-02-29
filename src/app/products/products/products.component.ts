@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Observable, of } from 'rxjs';
+import { catchError } from 'rxjs/operators';
 import { Product } from '../models/product.model';
 import { ProductsService } from '../services/products.service';
 
@@ -18,6 +19,12 @@ export class ProductsComponent implements OnInit {
 
   constructor(protected productService: ProductsService) {
     this.products$ = this.productService.getProducts()
+      .pipe(
+        catchError(error => {
+          console.log(error);
+          return of([])
+        })
+      )
   }
 
   ngOnInit(): void {

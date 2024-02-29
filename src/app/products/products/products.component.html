@@ -1,6 +1,6 @@
 <mat-card>
-  <mat-toolbar color="accent">Produtos Disponíveis</mat-toolbar>
   <div *ngIf="products$ | async as products; else isLoading">
+    <mat-toolbar color="accent">Produtos Disponíveis</mat-toolbar>
     <table mat-table [dataSource]="products" class="mat-elevation-z8">
       <!-- Name Column -->
       <ng-container matColumnDef="name">
